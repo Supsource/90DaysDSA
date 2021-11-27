@@ -79,3 +79,68 @@ n1.99 = o(n2)
 n2.00001 = ω(n2) and n2 ≠ ω(n2)
 
 
+## II. The relationship between asymptotic notations :
+
+![](https://grdp.co/cdn-cgi/image/width=500,height=500,quality=50,f=auto/https://gs-blog-images.grdp.co/gate-exam/wp-content/uploads/2015/11/27032649/Relationships-complexities.png)
+
+
+## III. Properties of Asymptotic notations
+
+* 1.Reflexive Property:
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0b/GreaterThanOrEqualTo.png)
+
+
+* 2.Symmetric Property:
+
+
+![](https://gs-blog-images.grdp.co/gate-exam/wp-content/uploads/2015/11/27032649/Symmetry.png)
+
+
+* 3.Transitive Property:
+
+
+![](https://grdp.co/cdn-cgi/image/width=500,height=500,quality=50,f=auto/https://gs-blog-images.grdp.co/gate-exam/wp-content/uploads/2015/11/27032649/Trasitivity.png)
+
+
+* 4.Mixed asymptotic transitive Properties:
+
+
+![](https://grdp.co/cdn-cgi/image/width=500,height=500,quality=50,f=auto/https://gs-blog-images.grdp.co/gate-exam/wp-content/uploads/2015/11/27032649/Other-properties.png)
+
+
+
+## IV. Analysis of Algorithms
+
+The complexity of an algorithm is a function describing the efficiency of the algorithm in terms of the amount of data the algorithm must process. Usually there are natural units for the domain and range of this function.
+
+* Algorithm can be classified by the amount of time they need to complete compared to their input size.
+
+* The analysis of an algorithm focuses on the complexity of algorithm which depends on time or space.
+
+
+
+```There are two main complexity measures of the efficiency of an algorithm:```
+
+## 1. Time Complexity: 
+
+The time complexity is a function that gives the amount of time required by an algorithm to run to completion.
+
+* **Worst case time complexity:** It is the function defined by the maximum amount of time needed by an algorithm for an input of size n.
+
+
+* **Average case time complexity:** The average-case running time of an algorithm is an estimate of the running time for an "average" input. Computation of average-case running time entails knowing all possible input sequences, the probability distribution of occurrence of these sequences, and the running times for the individual sequences.
+
+* **Amortized Running Time:** It is the time required to perform a sequence of (related) operations is averaged over all the operations performed.  Amortized analysis guarantees the average performance of each operation in the worst case.
+
+* **Best case time complexity:** It is the minimum amount of time that an algorithm requires for an input of size n.  
+
+![](https://he-s3.s3.amazonaws.com/media/uploads/c950295.png)
+
+
+## 2. Space Complexity: 
+
+The space complexity is a function that gives the amount of space required by an algorithm to run to completion.
+
+
+
