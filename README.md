@@ -1,4 +1,4 @@
-## 90 Days of DSA Roadmap
+## 90 Days of DSA Roadmap [![Build Status](https://travis-ci.org/nannou-org/guide.svg?branch=master)](https://github.com/Supsource/90DaysDSA)
 
 **Day 1 & 2 :**  Learn about space and time complexity. One of the most important part of programming is knowing the complexity of the code you writing. 
 
@@ -7,20 +7,20 @@ Concepts.
 
 **Day 11 to 30 :**  Learn about the basic data structures ->  
 
-(i) Arrays 
+* (i) Arrays 
+* (ii)Linked List 
+* (iii) Stacks and Queues
 
-(ii)Linked List 
 
-(iii) Stacks and Queues
 
-Some important Suggestion from Nishant Chahar > From Now, start giving contests and learn the new concepts that come along the way.
-                         You might not do well in the first few but it’s okay! Just keep learning and keep growing.
+```Some important Suggestion from Nishant Chahar >``` *From Now, start giving contests and learn the new concepts that come along the way.
+                         You might not do well in the first few but it’s okay! Just keep learning and keep growing.*
 
 **Day 31 to 45 :** Learn about more and a little more complex data structures and algorithms ->
 
-(i) Searching
+* (i) Searching
 
-(ii) Sorting { 
+* (ii) Sorting { 
 
                    \1\ Bubble Sort
                    \2\ Insertion Sort
@@ -28,17 +28,17 @@ Some important Suggestion from Nishant Chahar > From Now, start giving contests 
                    \4\ Merge Sort
                    \5\ Quick Sort
                    
-(iii) Hashmaps
+* (iii) Hashmaps
 
-(iv)Trees 
+* (iv)Trees 
 
-(v)Heaps 
+* (v)Heaps 
 
-(Vi)Sliding Window
+* (Vi)Sliding Window
 
 **Day 46 to 70 :**  Learn about DP and Graphs ->  
 
-(i) Graphics -> 
+* (i) Graphics -> 
 
 
                    \1\ Breadth First Search [BFS]  
@@ -53,7 +53,7 @@ Some important Suggestion from Nishant Chahar > From Now, start giving contests 
                    \11\ DSU by rank
 
 
-(ii) Dynamic Programming 
+* (ii) Dynamic Programming 
 
 
 
@@ -62,11 +62,11 @@ Some important Suggestion from Nishant Chahar > From Now, start giving contests 
 
 **Day 80 to 90 :**  Some more topics which will help you perform better in online tests 
 
-(i) Number Theory 
+* (i) Number Theory 
 
-(ii) Bit Manipulation
+* (ii) Bit Manipulation
 
-(iii) Tries
+* (iii) Tries
 
 
 
