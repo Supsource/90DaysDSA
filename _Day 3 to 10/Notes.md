@@ -58,3 +58,23 @@ Let's compare the two versions:
 * The iterative version must save the solution in an intermediate variable before it can be returned; the recursive version calculates and returns its result as a single expression.
 
 #### Recursion simplifies the definition of the fact function, making it more readable.
+
+
+## Writing Recursive Functions
+
+To successfully apply recursion to a problem, you must be able to break the problem down into subparts, at least one of which is similar in form to the original problem. For example, suppose we want to count the number of occurrences of the number k in an array of n integers. The first thing we should do is write the header for our function; this will ensure that we know what the function is supposed to do and how it is called:
+
+// Return the number of occurrences of k in the first
+
+// n elements of array
+
+// Precondition: the array contains at least n elements unsigned count_ks(int array[], unsigned n, int k);
+
+
+To use recursion on this problem, we must find a way to break the problem down into subproblems, at least one of which is similar in form to the original problem. If we know that the array contains n numbers, we might break our task into the subproblems of:
+
+* counting the number of times that k appears in the first n-1 elements of the array (this is a subproblem that is similar in form to the original problem);
+* counting the number of times that k appears in the n-th element of the array ( i.e. determining whether the n-th element is k); and
+* adding these two sums together and returning the result.
+
+
