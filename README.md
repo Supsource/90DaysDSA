@@ -238,3 +238,6 @@ Practice and sloved alot of problems on leetcode, gfg and Codestudio.
 #### 📅 Day 62 to 65 :
 Learnt and Practice alot of problems on leetcode, gfg and Codestudio.
 
+
+#### 📅 Day 66 :
+Started learning about Dynamic Programming, read a couple of documentation on gfg and also watched some tutorials on Youtube. {theory only}
