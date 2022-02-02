@@ -41,11 +41,11 @@ Concepts.
 
 **Day 46 to 70 :**  Learn about DP and Graphs ->  
 
-* (i) Graphics -> 
+* (i) Graph -> 
 
 
                    \1\ Breadth First Search [BFS]  
-                   \2\ Bepth First Search [DFS] 
+                   \2\ Depth First Search [DFS] 
                    \3\ Shortest path from source to all vertices: Dijkstra 
                    \4\  Shortest path from every vertex to every other vertex: Floyd Warshall 
                    \5\  Minimum Spanning tree: Prim \6\  Minimum Spanning Tree: Kruskal  
@@ -241,3 +241,7 @@ Learnt and Practice alot of problems on leetcode, gfg and Codestudio.
 
 #### 📅 Day 66 :
 Started learning about Dynamic Programming, read a couple of documentation on gfg and also watched some tutorials on Youtube. {theory only}
+
+
+#### 📅 Day 67 :
+Revised old topics like Sliding Windo,Stacks and Queues, backtracking etc. Practice and sloved problems of Dynamic Programming on Leetcode. 
