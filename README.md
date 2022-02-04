@@ -69,10 +69,7 @@ Concepts.
 
 * (ii) Bit Manipulation
 
-* (iii) Tries
-
-
-<br>
+* (iii) Tries<br>
 
 ## ✅  Progress As Per My Day :
 
@@ -243,5 +240,5 @@ Learnt and Practice alot of problems on leetcode, gfg and Codestudio.
 Started learning about Dynamic Programming, read a couple of documentation on gfg and also watched some tutorials on Youtube. {theory only}
 
 
-#### 📅 Day 67 :
+#### 📅 Day 67 & 68 :
 Revised old topics like Sliding Windo,Stacks and Queues, backtracking etc. Practice and sloved problems of Dynamic Programming on Leetcode. 
