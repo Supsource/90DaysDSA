@@ -3,17 +3,34 @@
 
 ## 90 Days of DSA Roadmap [![Build Status](https://travis-ci.org/nannou-org/guide.svg?branch=master)](https://github.com/Supsource/90DaysDSA)
 
-**Day 1 & 2 :**  Learn about space and time complexity. One of the most important part of programming is knowing the complexity of the code you writing. 
+**Day 1 & 2 :**  Learn about space and time complexity. One of the most important part of programming is knowing the complexity of the code you writing.
+##### Resources
+- [Theory](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/) - by Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/watch?v=mV3wrLBbuuE) - By Kunal Kushwaha
 
 **Day 3 to 10 :** Learn about recursion and backtracking. One of the most important and most useful
-Concepts.
+Concepts. 
+##### Resources
+- [Theory](https://www.geeksforgeeks.org/introduction-to-backtracking-data-structure-and-algorithm-tutorials/#:~:text=Difference%20between%20Recursion%20and%20Backtracking,best%20result%20for%20the%20problem.) - by Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod) - By Kunal Kushwaha
 
 **Day 11 to 30 :**  Learn about the basic data structures ->  
 
 * (i) Arrays 
-* (ii)Linked List 
+* (ii) Linked List 
 * (iii) Stacks and Queues
 
+##### Resources
+ ###### Arrays 
+- [Theory](https://www.geeksforgeeks.org/introduction-to-backtracking-data-structure-and-algorithm-tutorials/#:~:text=Difference%20between%20Recursion%20and%20Backtracking,best%20result%20for%20the%20problem.)
+- [Video Lecture](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
+ ###### Linked List 
+ - [Theory](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm#:~:text=A%20linked%20list%20is%20a,used%20data%20structure%20after%20array.) - By TutorialsPoint
+- [Video Lecture](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr54_TH_NK4ibFojS4mmQA6) - By Love Babbar
+ 
+  ###### Stacks and Queues
+  - [Theory](https://www.andrew.cmu.edu/course/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html) - By Andrew Edu
+- [Video Lecture](https://www.youtube.com/watch?v=rHQI4mrJ3cg) - By Kunal Kushwaha
 
 
 ```Some important Suggestion from Nishant Chahar >``` *From Now, start giving contests and learn the new concepts that come along the way.
