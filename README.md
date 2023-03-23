@@ -3,7 +3,7 @@
 
 ## 90 Days of DSA Roadmap [![Build Status](https://travis-ci.org/nannou-org/guide.svg?branch=master)](https://github.com/Supsource/90DaysDSA)
 
-**Day 1 & 2 :**  Learn about space and time complexity. One of the most important part of programming is knowing the complexity of the code you writing.
+**Day 1 & 2 :**  Learn about **space and time complexity**. One of the most important part of programming is knowing the complexity of the code you writing.
 ##### Resources
 - [Theory](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/) - by Geeksforgeeks
 - [Video Lecture](https://www.youtube.com/watch?v=mV3wrLBbuuE) - By Kunal Kushwaha
@@ -22,14 +22,14 @@ Concepts.
 
 ##### Resources
  ###### Arrays 
-- [Theory](https://www.geeksforgeeks.org/introduction-to-backtracking-data-structure-and-algorithm-tutorials/#:~:text=Difference%20between%20Recursion%20and%20Backtracking,best%20result%20for%20the%20problem.)
-- [Video Lecture](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
+- [Theory](https://www.geeksforgeeks.org/introduction-to-backtracking-data-structure-and-algorithm-tutorials/#:~:text=Difference%20between%20Recursion%20and%20Backtracking,best%20result%20for%20the%20problem.) - By Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod) - By Kunal Kushwaha
  ###### Linked List 
  - [Theory](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm#:~:text=A%20linked%20list%20is%20a,used%20data%20structure%20after%20array.) - By TutorialsPoint
 - [Video Lecture](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr54_TH_NK4ibFojS4mmQA6) - By Love Babbar
  
-  ###### Stacks and Queues
-  - [Theory](https://www.andrew.cmu.edu/course/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html) - By Andrew Edu
+###### Stacks and Queues
+- [Theory](https://www.andrew.cmu.edu/course/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html) - By Andrew Edu
 - [Video Lecture](https://www.youtube.com/watch?v=rHQI4mrJ3cg) - By Kunal Kushwaha
 
 
@@ -50,11 +50,37 @@ Concepts.
                    
 * (iii) Hashmaps
 
-* (iv)Trees 
+* (iv) Trees 
 
-* (v)Heaps 
+* (v) Heaps 
 
-* (Vi)Sliding Window
+* (Vi) Sliding Window
+
+##### Resources
+ ###### Searching 
+- [Theory](https://www.geeksforgeeks.org/searching-algorithms/) - By Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/playlist?list=PLDzeHZWIZsTp4pb_WBRahP1tnipLuX9qM) - By CodeHelp - by Babbar
+
+ ###### Sorting
+ - [Theory](https://www.geeksforgeeks.org/sorting-algorithms/) - By Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/playlist?list=PLDzeHZWIZsTp4pb_WBRahP1tnipLuX9qM) - By CodeHelp - by Babbar
+ 
+###### Hashmaps
+- [Theory](https://www.geeksforgeeks.org/java-util-hashmap-in-java-with-examples/) - By Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/watch?v=7mUKGHznpfg) - By By CodeHelp - by Babbar
+
+###### Trees
+- [Theory](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/) - By Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/watch?v=5NiXlPrLslg&list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - By By By CodeHelp - by Babbar
+
+###### Heaps
+- [Theory](https://www.geeksforgeeks.org/heap-data-structure/) - By Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - By Aditya Verma
+
+###### Sliding Window
+- [Theory](https://www.geeksforgeeks.org/window-sliding-technique/) - By Geeksforgeeks
+- [Video Lecture](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj) - By Aditya Verma
+
 
 **Day 46 to 70 :**  Learn about DP and Graphs ->  
 
