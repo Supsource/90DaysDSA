@@ -1,8 +1,7 @@
 ![](https://raw.githubusercontent.com/Supsource/90DaysDSA/main/Purple%20and%20Pink%20Organic%20and%20Handcrafted%20Welcome%20Message%20Elementary%20Back%20to%20School%20Banner.png)
 
 
-## 90 Days of DSA Roadmap [![Build Status](https://travis-ci.org/nannou-org/guide.svg?branch=master)](https://github.com/Supsource/90DaysDSA)
-
+## 90 Days of DSA Roadmap
 **Day 1 & 2 :**  Learn about **space and time complexity**. One of the most important part of programming is knowing the complexity of the code you writing.
 ##### Resources
 - [Theory](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/) - by Geeksforgeeks
